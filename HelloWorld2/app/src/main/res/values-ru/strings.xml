@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Привет мир!</string>
+    <string name="agreement_full_text">Нажимая на кнопку вы подтверждаете, что ознакомились с условиями
+        использования и политикой конфиденциальности</string>
+    <string name="confidential_info">условия пользования</string>
+    <string name="privacy_policy">политикой конфиденциальности</string>
+</resources>
